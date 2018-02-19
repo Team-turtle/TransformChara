@@ -41,7 +41,7 @@
 
 # 3Dプリンタで印刷！
 
-<img src="https://dddjapan.com/shop/zortrax-m200/">
+<img src="https://dddjapan.com/wp-content/uploads/2015/10/zortrax-m200-1-433x325.png">
 
 ---
 
